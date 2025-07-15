@@ -1,0 +1,21 @@
+{
+  "name": "@shooktea/js-state-machine",
+  "version": "1.0.0",
+  "description": "Simple state machine library for JavaScript and TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "globals": "^16.3.0",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.8.3"
+  },
+  "author": "Norbert Kowalik <norbert.kowalik@icloud.com>",
+  "license": "MIT"
+}
