@@ -16,6 +16,7 @@ This is a simple, lightwight library for state machines for JavaScript, with ful
     - [Asynchronous getter/setter](#asynchronous-gettersetter)
     - [Transition guards](#transition-guards)
 
+
 ## How to install?
 
 ```sh
