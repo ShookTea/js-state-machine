@@ -4,6 +4,9 @@
   "description": "Simple state machine library for JavaScript and TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/ShookTea/js-state-machine"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
