@@ -1,8 +1,8 @@
 # js-state-machine
 
-![NPM version](https://img.shields.io/npm/v/%40shooktea%2Fjs-state-machine?style=flat-square&label=Version)
-![NPM bundle size](https://img.shields.io/bundlephobia/min/%40shooktea%2Fjs-state-machine?style=flat-square&label=Size)
-![GitHub License](https://img.shields.io/github/license/ShookTea/js-state-machine?style=flat-square&label=License)
+![NPM version](https://img.shields.io/npm/v/%40shooktea%2Fjs-state-machine?style=flat-square&label=Version&cacheSeconds=3600)
+![NPM bundle size](https://img.shields.io/bundlephobia/min/%40shooktea%2Fjs-state-machine?style=flat-square&label=Size&cacheSeconds=3600)
+![GitHub License](https://img.shields.io/github/license/ShookTea/js-state-machine?style=flat-square&label=License&cacheSeconds=3600)
 
 This is a simple, lightwight library for state machines for JavaScript, with full TypeScript support.
 
@@ -15,7 +15,6 @@ This is a simple, lightwight library for state machines for JavaScript, with ful
     - [Defining a state machine](#defining-a-state-machine)
     - [Asynchronous getter/setter](#asynchronous-gettersetter)
     - [Transition guards](#transition-guards)
-
 
 ## How to install?
 
